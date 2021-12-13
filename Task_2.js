@@ -10,7 +10,7 @@ const persons = [
   ]
   
 
-const newPersons = persons.filter(age =>)
+const newPersons = persons.map(FullName)
 
 
 function FullName(item){
